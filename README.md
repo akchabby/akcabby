@@ -40,5 +40,10 @@ I'm a Data Science major with interests in [insert interest areas, e.g., machine
 
 ### 📈 GitHub Stats
 
-![Abigail's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=default)
+![Abigail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akcabby&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akcabby&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=akcabby)
+
 
