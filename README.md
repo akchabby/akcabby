@@ -1,4 +1,4 @@
-# Hi, I'm Abigail 
+# 🌸 Hi, I'm Abigail 🌸
 I'm a Data Science major who doesn't just crunch numbers — I interrogate them.
 My curiosity lives where algorithms meet emotion, and I'm fascinated by the messy space where human behavior defies clean datasets. Whether it's decoding market chaos, designing dashboards that actually feel intuitive, or teaching machines to predict what people don’t even know they want. I’m all in.
 
