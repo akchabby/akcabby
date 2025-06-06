@@ -6,13 +6,13 @@ I believe data isn't just for decisions — it’s for storytelling, accountabil
 
 ---
 
-## 📊 Projects & Analyses
+## Projects & Analyses
 
 - **Stock Portfolio Analysis:** A comprehensive analysis of stock performance using Python and pandas. [View Repository](https://github.com/akchabby/StockPortfolio)
 
 ---
 
-### 💡 Interests
+### Interests
 
 - 📊 Data Analysis & Storytelling  
 - 🌍 Tech for Social Impact  
@@ -20,13 +20,13 @@ I believe data isn't just for decisions — it’s for storytelling, accountabil
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 - **Languages:** Python, R, SQL
 - **Tools:** Jupyter, Pandas, Scikit-learn, Git, Numpy
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/abigail-chen-738177222/  
 - Email: abbyychen17@gmail.com
