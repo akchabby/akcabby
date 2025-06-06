@@ -1,0 +1,6 @@
+*.csv linguist-documentation
+*.json linguist-documentation
+*.ipynb linguist-language=Python
+images/* linguist-vendored
+__pycache__/* linguist-vendored
+*.h5 linguist-generated
