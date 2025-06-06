@@ -23,17 +23,14 @@ I'm a Data Science major with interests in [insert interest areas, e.g., machine
 
 ### 🛠 Tech Stack
 
-- **Languages:** Python, R, SQL, [insert others]  
-- **Tools:** Jupyter, Pandas, Scikit-learn, Git, [insert others]  
-- **Currently Learning:** [e.g., Tableau, Docker, Snowflake]
-
+- **Languages:** Python, R, SQL
+- **Tools:** Jupyter, Pandas, Scikit-learn, Git, Numpy
 ---
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn link]  
-- Email: [your.email@example.com]  
-- Website/Portfolio: [your personal site if you have one]
+- LinkedIn: https://www.linkedin.com/in/abigail-chen-738177222/  
+- Email: abbyychen17@gmail.com
 
 ---
 
