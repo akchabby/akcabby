@@ -35,8 +35,6 @@ I believe data isn't just for decisions — it’s for storytelling, accountabil
 
 ### 📈 GitHub Stats
 
-![Abigail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akcabby&show_icons=true&theme=radical&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akchabby&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=akcabby)
