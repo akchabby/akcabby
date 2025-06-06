@@ -12,6 +12,12 @@ I'm a Data Science major with interests in [insert interest areas, e.g., machine
 
 ---
 
+## 📊 Projects & Analyses
+
+- **Stock Portfolio Analysis:** A comprehensive analysis of stock performance using Python and pandas. [View Repository](https://github.com/akchabby/stock-portfolio)
+
+---
+
 ### 💡 Interests
 
 - 📊 Data Analysis & Storytelling  
