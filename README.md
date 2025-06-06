@@ -1,14 +1,8 @@
 # Hi, I'm Abigail 👋
+I'm a Data Science major who doesn't just crunch numbers — I interrogate them.
+My curiosity lives where algorithms meet emotion, and I'm fascinated by the messy space where human behavior defies clean datasets. Whether it's decoding market chaos, designing dashboards that actually feel intuitive, or teaching machines to predict what people don’t even know they want. I’m all in.
 
-I'm a Data Science major with interests in [insert interest areas, e.g., machine learning, data ethics, or AI for social good]. Passionate about using data to drive real-world impact.
-
----
-
-### 🧠 Current Focus
-
-- Exploring [insert project or subject you're focusing on, e.g., natural language processing or data visualization]
-- Learning [insert courses, frameworks, or languages, e.g., PyTorch, SQL, or cloud computing]
-- Building [insert project idea or goal, e.g., a recommender system or research dashboard]
+I believe data isn't just for decisions — it’s for storytelling, accountability, and rebellion.
 
 ---
 
@@ -21,9 +15,8 @@ I'm a Data Science major with interests in [insert interest areas, e.g., machine
 ### 💡 Interests
 
 - 📊 Data Analysis & Storytelling  
-- 🤖 Artificial Intelligence & Machine Learning  
 - 🌍 Tech for Social Impact  
-- ✨ [Add your own interest here]
+- ✨ Project Management 
 
 ---
 
