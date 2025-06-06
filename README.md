@@ -1,4 +1,3 @@
-# akcabby  
 # Hi, I'm Abigail 👋
 
 I'm a Data Science major with interests in [insert interest areas, e.g., machine learning, data ethics, or AI for social good]. Passionate about using data to drive real-world impact.
